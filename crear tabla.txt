@@ -1,0 +1,7 @@
+create table ejemplo(
+departamento varchar2(50),
+ciudad varchar2(50),
+placa_vehiculo varchar2(50),
+fecha varchar2(50),
+codigo_infraccion varchar2(50)
+);
