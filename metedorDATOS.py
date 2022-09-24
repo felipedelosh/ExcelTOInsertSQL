@@ -5,6 +5,9 @@ meter desde el CMD a la base de datos en oracle.
 NOTA: Hecho en windows
 NOTA: Las carpetas de la ruta no pueden tener espacios
 
+
+Nota: 50mil registros tardarón 4 horas.
+
 """
 
 import os
